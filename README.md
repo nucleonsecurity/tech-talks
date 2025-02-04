@@ -4,5 +4,7 @@ Tech-talks is a series of webinars hosted by **Nucleon Security**. To share its 
 ## Webinar
 ### > Episode 5
 The Episode 5 took place on the 26th, septembre 2024, and was presented by ***Taha ENOUALI***
-Recording of the presentation [here](Episode-5-Leveraging-Big-Data-for-Enhanced-Cybersecurity-Resilience\Tech Talk Episode 5-Leveraging Big Data for Enhanced Cybersecurity Resilience-presented_26_09_2024.mp4)
-Slides of the presentation [here](Episode-5-Leveraging-Big-Data-for-Enhanced-Cybersecurity-Resilience\slides.pdf)
+
+[Recording of the presentation](Episode-5-Leveraging-Big-Data-for-Enhanced-Cybersecurity-Resilience/recordings-presented_26_09_2024.mp4)
+
+[Slides of the presentation](Episode-5-Leveraging-Big-Data-for-Enhanced-Cybersecurity-Resilience/slides.pdf)
